@@ -47,3 +47,5 @@ The code provided here either includes or calls code associated with the followi
 >Warnick, R., Guindani, M., Erhardt, E., Allen, E., Calhoun, V., and Vannucci, M. (2018).A bayesian approach for estimating dynamic functional network connectivity in fmri data.Journal of the American Statistical Association, 113(521):134–151
 
 >Peterson,  C.  B.,  Osborne,  N.,  Stingo,  F.  C.,  Bourgeat,  P.,  Doecke,  J.  D.,  and  Vannucci,M.  (2020).   Bayesian  modeling  of  multiple  structural  connectivity  networks  during  theprogression of alzheimer’s disease. Biometrics.
+
+> Wang H. (2015). Scaling it up: Stochastic search structure learning in graphical models. Bayesian Analysis, 10(2), 351-377.

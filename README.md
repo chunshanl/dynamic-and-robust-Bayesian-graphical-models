@@ -42,7 +42,7 @@ An example of applying the proposed model and doing posterior analysis can be fo
 
 ## Acknowledgements
 
-The code provided here either includes or calls code associated with the following publications:
+The code provided here either includes code associated with the following publications:
 
 >Warnick, R., Guindani, M., Erhardt, E., Allen, E., Calhoun, V., and Vannucci, M. (2018).A bayesian approach for estimating dynamic functional network connectivity in fmri data.Journal of the American Statistical Association, 113(521):134–151
 

@@ -42,9 +42,7 @@ An example of applying the proposed model and doing posterior analysis can be fo
 
 ## Acknowledgements
 
-The code provided here either includes code associated with the following publications:
-
->Warnick, R., Guindani, M., Erhardt, E., Allen, E., Calhoun, V., and Vannucci, M. (2018).A bayesian approach for estimating dynamic functional network connectivity in fmri data.Journal of the American Statistical Association, 113(521):134–151
+The code provided here includes code associated with the following publications:
 
 >Peterson,  C.  B.,  Osborne,  N.,  Stingo,  F.  C.,  Bourgeat,  P.,  Doecke,  J.  D.,  and  Vannucci,M.  (2020).   Bayesian  modeling  of  multiple  structural  connectivity  networks  during  theprogression of alzheimer’s disease. Biometrics.
 
